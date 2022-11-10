@@ -15,7 +15,7 @@ Use the following controls:
 - (Z) - Cancel
 
 ![How to play1](https://i.ibb.co/tbSGjTf/tut-basics.png)
-![How to play2](https://i.ibb.co/SfrTtV0/tut-basics2.png)
+![How to play2](https://i.ibb.co/9cw1spX/tut-basics2.png)
 
 ## The MIT License (MIT)
 

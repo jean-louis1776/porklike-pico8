@@ -1,4 +1,4 @@
-# Porklike: Wurst Comes to Worst
+# PorkLike: Wurst Comes to Worst
 
 ## _PICO-8 Game_
 

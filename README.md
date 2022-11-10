@@ -17,6 +17,7 @@ Use the following controls:
 ![How to play1](https://i.ibb.co/tbSGjTf/tut-basics.png)
 ![How to play2](https://i.ibb.co/SfrTtV0/tut-basics2.png)
 
+
 ## The MIT License (MIT)
 
 Copyright © 2022 Ilya Aleksin
